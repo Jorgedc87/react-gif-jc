@@ -16,8 +16,6 @@ Bienvenido/a a la React Gif JC, una aplicación web simple que te permite buscar
 
 ## Cómo Iniciar
 
-1. Clona este repositorio:
-
 - git clone https://github.com/Jorgedc87/react-gif-jc.git
 - npm install
 - npm run dev
