@@ -1,8 +1,39 @@
-# React + Vite
+# React Gif JC
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido/a a la React Gif JC, una aplicación web simple que te permite buscar imágenes en Giphy y mostrar los primeros 10 resultados. Hice este proyecto siguiendo el curso de Fernando Herrera.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Búsqueda Rápida:** Ingresa tu término de búsqueda y obtén instantáneamente una lista de imágenes relacionadas.
+- **Visualización de Resultados:** Muestra hasta 10 imágenes de Giphy para tu consulta.
+- **Interfaz Simple:** Diseño limpio y fácil de usar para una experiencia de usuario sin complicaciones.
+
+## Tecnologías Utilizadas
+
+- ReactJS
+- JavaScript
+- Jest (para pruebas unitarias)
+
+## Cómo Iniciar
+
+1. Clona este repositorio:
+
+- git clone https://github.com/tu-usuario/tu-repositorio.git
+- npm install
+- npm run dev
+
+## Contribuir
+
+- Haz un fork del proyecto.
+- Crea tu rama de características (git checkout -b feature/AmazingFeature).
+- Realiza tus cambios y haz un commit (git commit -m 'Añade una característica asombrosa').
+- Haz push a la rama (git push origin feature/AmazingFeature).
+- Abre una solicitud de extracción.
+
+## Autor
+
+Jorge Calderón
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT.
